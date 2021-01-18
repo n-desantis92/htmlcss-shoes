@@ -61,3 +61,8 @@ nav {
 .box-3 .content h2 {
   color: green;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
