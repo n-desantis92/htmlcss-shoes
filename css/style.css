@@ -35,6 +35,13 @@ nav {
    height: 100vh;
  }
 
+.box-2 {
+  background-color: green;
+}
+.box-3 {
+  background-color: yellow;
+
+}
 .content {
   margin: auto;
   width: 60%;
@@ -49,4 +56,8 @@ nav {
   text-align: center;
   font-size: 2.5em;
   color: yellow;
+  text-shadow: 1px 1px 3px black;
+}
+.box-3 .content h2 {
+  color: green;
 }
